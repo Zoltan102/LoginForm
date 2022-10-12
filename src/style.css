@@ -760,4 +760,7 @@ input.checkbox:checked:after {
   .main-w3layouts {
     padding: 1em 0 0;
   }
+  .error::-webkit-input-placeholder{
+    color: red;
+  }
 }
